@@ -3,11 +3,6 @@
 <h1>Hola, soy Ana Fontana</h1>
 <h3>Fullstack developer,vivo en Argentina.Se puede decir que difruto mucho de profesion</h3>
 
-- 🔭Actualmente estoy trabajando en un proyecto personal que recien esta dando sus primeros pasos [Studio Hope](https://www.instagram.com/hopedesarrolloweb/)
-
-- 📄 Mi cv <p align="left"><a href="https://drive.google.com/file/d/1xrAFvVPQR9NRw9NspncuiDKp6IeFR_us/view?usp=sharing" target="_blank"> </p>
-
-- 🙊algo gracioso **Me presento como fullstack,pero en el fondo quiero soy backend**
 
 
 ### &nbsp;Sobre mi
@@ -19,6 +14,9 @@
 🎮​ &nbsp;En mi tiempo libre me gusta dedicarme hago contenido en youtube de videojuegos,lo cual disfruto hacer.Gracias a este hobby,me involucre mas con el area de la programacion,encontrar mi camino y poder decir "al fin encontre lo que queria hacer".\
 ✉️ &nbsp;Puede enviarme un email a fontany32@gmail.com para poder contactarme o si quieren colaborar en un proyecto.\
 
+- 🔭Actualmente estoy trabajando en un proyecto personal que recien esta dando sus primeros pasos [Studio Hope](https://www.instagram.com/hopedesarrolloweb/)
+
+- 🙊algo gracioso **Me presento como fullstack,pero en el fondo quiero soy backend**
 
 
 <h3 align="left">Languages and Tools:</h3>
