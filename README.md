@@ -5,7 +5,7 @@
 
 - 🔭Actualmente estoy trabajando en un proyecto personal que recien esta dando sus primeros pasos [Studio Hope](https://www.instagram.com/hopedesarrolloweb/)
 
-- 📄 Mi cv <a href="https://drive.google.com/file/d/1xrAFvVPQR9NRw9NspncuiDKp6IeFR_us/view?usp=sharing" target="_blank"> 
+- 📄 Mi cv <p align="left"><a href="https://drive.google.com/file/d/1xrAFvVPQR9NRw9NspncuiDKp6IeFR_us/view?usp=sharing" target="_blank"> </p>
 
 - 🙊algo gracioso **Me presento como fullstack,pero en el fondo quiero soy backend**
 
