@@ -1,4 +1,4 @@
-<img src="./banner/bannergit.png" width='40' align="left"/>
+<img src="./banner/bannergit.png" align="left"/>
 
 <!-- ## 👋 &nbsp;Hola! Soy Ana Fontana-->
 
