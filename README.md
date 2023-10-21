@@ -1,7 +1,7 @@
 <img src="./banner/bannergit.png" align="left"/>
 
 <h1>Hola, soy Ana Fontana</h1>
-<h3>Fullstack developer,vivo en Argentina.Se puede decir que disfruto mucho de profesion</h3>
+<h3>Fullstack developer,vivo en Argentina.Se puede decir que disfruto mucho de mi profesion</h3>
 
 
 
