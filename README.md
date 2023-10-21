@@ -1,7 +1,7 @@
 <img src="./banner/bannergit.png" align="left"/>
-
+<br>
 ## 👋 &nbsp;Hola! Soy Ana Fontana
-
+<br>
 ### &nbsp;Sobre mi
 
 💡 &nbsp;Me considero una persona curiosa,abierta a aprender nuevos conocimientos ya sea en el area de la programacion o otra diciplina.\
