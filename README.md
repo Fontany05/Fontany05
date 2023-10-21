@@ -1,6 +1,14 @@
 <img src="./banner/bannergit.png" align="left"/>
 
-## 👋 &nbsp;Hola! Soy Ana Fontana
+<h1 align="center">Hola, soy Ana Fontana</h1>
+<h3 align="center">Fullstack developer,vivo en Argentina.Se puede decir que difruto mucho de profesion</h3>
+
+- 🔭Actualmente estoy trabajando en un proyecto personal que recien esta dando sus primeros pasos [Studio Hope](https://www.instagram.com/hopedesarrolloweb/)
+
+- 📄 mi portfolio [https://fontany05.github.io/](https://fontany05.github.io/)
+
+- 🙊algo gracioso **Me presento como fullstack,pero en el fondo quiero soy backend**
+
 
 ### &nbsp;Sobre mi
 
