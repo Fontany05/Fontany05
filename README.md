@@ -5,7 +5,7 @@
 
 - 🔭Actualmente estoy trabajando en un proyecto personal que recien esta dando sus primeros pasos [Studio Hope](https://www.instagram.com/hopedesarrolloweb/)
 
-- 📄 Mi cv <img src="./banner/" width='40' align="left"/>
+- 📄 Mi cv [https://fontany05.github.io/](https://fontany05.github.io/)
 
 - 🙊algo gracioso **Me presento como fullstack,pero en el fondo quiero soy backend**
 
