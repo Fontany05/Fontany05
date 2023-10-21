@@ -2,7 +2,7 @@
 
 <!-- ## 👋 &nbsp;Hola! Soy Ana Fontana-->
 
-### 👨🏻‍💻 &nbsp;Sobre mi
+### &nbsp;Sobre mi
 
 💡 &nbsp;Me considero una persona curiosa,abierta a aprender nuevos conocimientos ya sea en el area de la programacion o otra diciplina.\
 🎓 &nbsp;Actualmente me encuentro aprendiendo nuevas tecnologias por un lado me estoy encaminando al area de desarrollo movil dart/flutter y por el otro estoy capacitando en el sector de la nube de AWS y sus distintos servicios.\
