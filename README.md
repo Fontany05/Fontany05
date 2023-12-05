@@ -14,8 +14,6 @@
 🎮​ &nbsp;En mi tiempo libre hago contenido en youtube de videojuegos,lo cual disfruto mucho hacerlo.Gracias a este hobby,me involucre mas con el area de la programacion,encontrar mi camino y poder decir "al fin encontre lo que queria hacer".\
 ✉️ &nbsp;Puede enviarme un email a fontany32@gmail.com para poder contactarme o si quieren colaborar en un proyecto.\
 
-🔭 &nbsp;Actualmente estoy trabajando en un proyecto personal que recien esta dando sus primeros pasos [Studio Hope](https://www.instagram.com/hopedesarrolloweb/)
-
 🙊 &nbsp;algo gracioso **Me presento como fullstack,pero en el fondo quiero soy backend**
 
 <h3 align="left">Connect with me:</h3>
