@@ -1,5 +1,5 @@
 <div>
-  <img src="https://drive.google.com/file/d/1sYPURfoZu9PdBgIxSLrPfXgIQ5c0kANp/view?usp=sharing](https://github.com/Fontany05/Fontany05/blob/main/bannergit.png">
+  <img src="https://github.com/Fontany05/Fontany05/blob/main/bannergit.png">
 </div>
 
 <div align="center">
