@@ -7,7 +7,7 @@
 </div>
 
 
-<!--
+
 **Fontany05/Fontany05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## Sobre mi
@@ -20,7 +20,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 ## 🛠️ My Favorite Tools
 
