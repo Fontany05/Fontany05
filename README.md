@@ -12,4 +12,4 @@ I am curious and I really want to learn and be more professional in my work.
 - Angular js (soon)
 
 Contact me 
-<a href="https://www.linkedin.com/in/anafontana822/">Linkedin</a>
+<a href="anafontana822@hotmail.com">Email</a>
