@@ -14,4 +14,4 @@ I am curious and I really want to learn and be more professional in my work.
 Contact me 
 <a href="https://www.linkedin.com/in/anafontana822/">My linkedin</a>
 
-<h4>some of my projects </h4>
+
