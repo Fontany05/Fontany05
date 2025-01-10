@@ -11,5 +11,5 @@ I am curious and I really want to learn and be more professional in my work.
 - English (because my English is very basic)
 - Angular js (soon)
 
-# Contact me 
-<a href="https://www.linkedin.com/in/anafontana822/">
+Contact me 
+<a href="https://www.linkedin.com/in/anafontana822/">Linkedin</a>
