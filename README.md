@@ -1,6 +1,6 @@
 # Hello, i'm Ani. 
 
-##***About me***
+## ***About me***
 
 My name is Ana Fontana. I am a programmer and backend developer.
 My current stack is node, express, javascript, html, css, sql, mongodb but I want to start working as a java developer.I am passionate about programming, 
