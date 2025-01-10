@@ -1,6 +1,6 @@
 # Hello, i'm Ani. 
 
-## <img src="https://giphy.com/embed/Q59o6bIuzyrYT0ugB6" width="30px">&nbsp;***About me***
+## <img src="https://giphy.com/embed/Q59o6bIuzyrYT0ugB6/giphy.gif" width="30px">&nbsp;***About me***
 
 My name is Ana Fontana. I am a programmer and backend developer.
 My current stack is node, express, javascript, html, css, sql, mongodb but I want to start working as a java developer.I am passionate about programming, 
