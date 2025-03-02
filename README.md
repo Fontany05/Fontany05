@@ -8,7 +8,7 @@ I am curious and I really want to learn and be more professional in my work.
 * **I'm interested in learning mobile development with kotlin**
 - 🌱 I'm currently learning...
 - Java
-- English (because my English is very basic)
+- English
 - Angular js (soon)
 
 Contact me 
