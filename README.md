@@ -3,7 +3,7 @@
 ## ***About me***
 
 My name is Ana Fontana. I am a programmer and backend developer.
-My current stack is node, express, javascript, html, css, sql, mongodb but I want to start working as a java developer.I am passionate about programming, 
+My current stack is node, express, javascript, html, css, sql, mongodb.I am passionate about programming, 
 I am curious and I really want to learn and be more professional in my work.
 
 
